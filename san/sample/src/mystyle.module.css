@@ -1,0 +1,10 @@
+.head2{
+    color: aqua;
+    background-color: violet;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
